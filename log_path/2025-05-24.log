@@ -1,0 +1,1091 @@
+2025-05-24 13:54:04,045 - INFO - 数据库已初始化
+2025-05-24 13:54:04,049 - INFO - 任务 19857372-16a2-4259-852a-154bd74299b8 状态更新为 running
+2025-05-24 13:54:04,183 - INFO - 处理任务19857372-16a2-4259-852a-154bd74299b8
+2025-05-24 13:54:18,590 - INFO - 复制文件到服务器路径: D:\heygem_data\face2face\temp\old_women_11.wav, D:\heygem_data\face2face\temp\lao.mp4
+2025-05-24 13:54:18,713 - INFO - 正在提交任务 19857372-16a2-4259-852a-154bd74299b8到服务器
+2025-05-24 13:54:18,714 - INFO - 任务 19857372-16a2-4259-852a-154bd74299b8 成功提交
+2025-05-24 13:54:21,724 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "文件下载完成",
+        "progress": 10,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:54:21,726 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 文件下载完成, retrying...
+2025-05-24 13:54:29,766 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:54:29,767 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:54:37,771 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:54:37,772 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:54:45,788 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:54:45,789 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:54:53,811 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:54:53,812 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:01,842 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:01,843 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:09,873 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:09,873 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:17,978 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:17,978 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:26,000 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:26,001 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:34,055 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:34,056 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:42,113 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:42,114 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:50,155 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:50,155 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:55:58,146 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:55:58,148 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:56:06,162 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:56:06,163 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:56:14,175 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:56:14,176 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:56:22,192 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:56:22,193 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:56:30,226 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:56:30,227 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:56:38,265 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:56:38,266 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:56:46,301 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:56:46,302 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:56:54,305 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:56:54,306 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:57:02,326 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:57:02,327 - INFO - Task 19857372-16a2-4259-852a-154bd74299b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 13:57:10,330 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "19857372-16a2-4259-852a-154bd74299b8",
+        "msg": "任务完成",
+        "progress": 100,
+        "result": "/19857372-16a2-4259-852a-154bd74299b8-r.mp4",
+        "status": 2
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 13:57:10,333 - INFO - 任务 19857372-16a2-4259-852a-154bd74299b8 状态更新为 success
+2025-05-24 13:57:10,479 - INFO - 任务 19857372-16a2-4259-852a-154bd74299b8 的完成时间已更新
+2025-05-24 13:57:10,479 - INFO - 任务 19857372-16a2-4259-852a-154bd74299b8 已完成，稍后上传服务器 和回调
+2025-05-24 13:57:11,451 - INFO - 服务器视频上传成功=> /PEOPLE_AI/19857372-16a2-4259-852a-154bd74299b8/19857372-16a2-4259-852a-154bd74299b8-r.mp4
+2025-05-24 13:57:11,452 - INFO - 任务 hhhhada回调到http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video,任务编号19857372-16a2-4259-852a-154bd74299b8
+2025-05-24 13:57:11,460 - ERROR - 消息通知失败: URL=http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video, 错误=500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 13:57:11,460 - ERROR - 任务19857372-16a2-4259-852a-154bd74299b8回调失败,消息通知失败: 500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 13:57:11,472 - INFO - 清理文件: D:\heygem_data\face2face\temp\old_women_11.wav, D:\heygem_data\face2face\temp\lao.mp4
+2025-05-24 14:00:10,048 - INFO - 任务 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 状态更新为 running
+2025-05-24 14:00:10,086 - INFO - 处理任务3871218b-70f5-4f2e-94c4-b753cf1c1c9a
+2025-05-24 14:00:24,372 - INFO - 复制文件到服务器路径: D:\heygem_data\face2face\temp\old_women_24.wav, D:\heygem_data\face2face\temp\lao.mp4
+2025-05-24 14:00:24,454 - INFO - 正在提交任务 3871218b-70f5-4f2e-94c4-b753cf1c1c9a到服务器
+2025-05-24 14:00:24,454 - INFO - 任务 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 成功提交
+2025-05-24 14:00:27,486 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:00:27,486 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:00:35,507 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:00:35,508 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:00:43,542 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:00:43,542 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:00:51,556 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:00:51,557 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:00:59,562 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:00:59,562 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:01:07,594 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:01:07,594 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:01:15,611 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:01:15,612 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:01:23,676 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:01:23,677 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:01:31,705 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:01:31,706 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:01:39,753 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:01:39,753 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:01:47,780 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:01:47,781 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:01:55,787 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:01:55,789 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:03,795 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:03,796 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:11,801 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:11,801 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:19,842 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:19,843 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:27,878 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:27,879 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:35,901 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:35,901 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:43,937 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:43,939 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:51,931 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:51,932 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:02:59,931 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:02:59,931 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:03:07,973 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:03:07,974 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:03:15,975 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:03:15,976 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:03:24,004 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:03:24,006 - INFO - Task 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:03:32,193 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "3871218b-70f5-4f2e-94c4-b753cf1c1c9a",
+        "msg": "任务完成",
+        "progress": 100,
+        "result": "/3871218b-70f5-4f2e-94c4-b753cf1c1c9a-r.mp4",
+        "status": 2
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:03:32,196 - INFO - 任务 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 状态更新为 success
+2025-05-24 14:03:32,313 - INFO - 任务 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 的完成时间已更新
+2025-05-24 14:03:32,313 - INFO - 任务 3871218b-70f5-4f2e-94c4-b753cf1c1c9a 已完成，稍后上传服务器 和回调
+2025-05-24 14:03:34,544 - INFO - 服务器视频上传成功=> /PEOPLE_AI/3871218b-70f5-4f2e-94c4-b753cf1c1c9a/3871218b-70f5-4f2e-94c4-b753cf1c1c9a-r.mp4
+2025-05-24 14:03:34,544 - INFO - 任务 hhhhada回调到http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video,任务编号3871218b-70f5-4f2e-94c4-b753cf1c1c9a
+2025-05-24 14:03:34,553 - ERROR - 消息通知失败: URL=http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video, 错误=500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:03:34,553 - ERROR - 任务3871218b-70f5-4f2e-94c4-b753cf1c1c9a回调失败,消息通知失败: 500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:03:34,567 - INFO - 清理文件: D:\heygem_data\face2face\temp\old_women_24.wav, D:\heygem_data\face2face\temp\lao.mp4
+2025-05-24 14:46:56,114 - INFO - 任务 f1df3b34-79d7-438f-a566-961cf5f99fc4 添加到数据库，task_id: 19
+2025-05-24 14:46:57,030 - INFO - 任务 f1df3b34-79d7-438f-a566-961cf5f99fc4 状态更新为 running
+2025-05-24 14:46:57,198 - INFO - 处理任务f1df3b34-79d7-438f-a566-961cf5f99fc4
+2025-05-24 14:47:02,373 - INFO - 任务 48e7a7ce-88d9-49d8-a49c-5314f95720b8 添加到数据库，task_id: 20
+2025-05-24 14:47:05,939 - INFO - 任务 eaf670ff-1941-49f2-8bb7-75c6419638ec 添加到数据库，task_id: 21
+2025-05-24 14:47:06,007 - INFO - 复制文件到服务器路径: D:\heygem_data\face2face\temp\women_17.wav, D:\heygem_data\face2face\temp\nv.mp4
+2025-05-24 14:47:06,103 - INFO - 正在提交任务 f1df3b34-79d7-438f-a566-961cf5f99fc4到服务器
+2025-05-24 14:47:06,103 - INFO - 任务 f1df3b34-79d7-438f-a566-961cf5f99fc4 成功提交
+2025-05-24 14:47:09,111 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:47:09,112 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:47:17,151 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:47:17,152 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:47:25,175 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:47:25,176 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:47:33,210 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:47:33,211 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:47:41,232 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:47:41,233 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:47:49,268 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:47:49,268 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:47:57,312 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:47:57,312 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:48:05,346 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:48:05,347 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:48:13,337 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:48:13,338 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:48:21,375 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:48:21,376 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:48:29,403 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:48:29,404 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:48:37,413 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:48:37,414 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:48:45,452 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:48:45,453 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:48:53,474 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:48:53,475 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:49:01,513 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:49:01,514 - INFO - Task f1df3b34-79d7-438f-a566-961cf5f99fc4 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:49:09,524 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "f1df3b34-79d7-438f-a566-961cf5f99fc4",
+        "msg": "任务完成",
+        "progress": 100,
+        "result": "/f1df3b34-79d7-438f-a566-961cf5f99fc4-r.mp4",
+        "status": 2
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:49:09,527 - INFO - 任务 f1df3b34-79d7-438f-a566-961cf5f99fc4 状态更新为 success
+2025-05-24 14:49:09,600 - INFO - 任务 f1df3b34-79d7-438f-a566-961cf5f99fc4 的完成时间已更新
+2025-05-24 14:49:09,600 - INFO - 任务 f1df3b34-79d7-438f-a566-961cf5f99fc4 已完成，稍后上传服务器 和回调
+2025-05-24 14:49:11,037 - INFO - 服务器视频上传成功=> /PEOPLE_AI/f1df3b34-79d7-438f-a566-961cf5f99fc4/f1df3b34-79d7-438f-a566-961cf5f99fc4-r.mp4
+2025-05-24 14:49:11,037 - INFO - 任务 hhhhada回调到http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video,任务编号f1df3b34-79d7-438f-a566-961cf5f99fc4
+2025-05-24 14:49:11,046 - ERROR - 消息通知失败: URL=http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video, 错误=500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:49:11,046 - ERROR - 任务f1df3b34-79d7-438f-a566-961cf5f99fc4回调失败,消息通知失败: 500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:49:11,054 - INFO - 清理文件: D:\heygem_data\face2face\temp\women_17.wav, D:\heygem_data\face2face\temp\nv.mp4
+2025-05-24 14:49:12,067 - INFO - 任务 48e7a7ce-88d9-49d8-a49c-5314f95720b8 状态更新为 running
+2025-05-24 14:49:12,125 - INFO - 处理任务48e7a7ce-88d9-49d8-a49c-5314f95720b8
+2025-05-24 14:49:20,728 - INFO - 复制文件到服务器路径: D:\heygem_data\face2face\temp\women_18.wav, D:\heygem_data\face2face\temp\nv.mp4
+2025-05-24 14:49:20,821 - INFO - 正在提交任务 48e7a7ce-88d9-49d8-a49c-5314f95720b8到服务器
+2025-05-24 14:49:20,821 - INFO - 任务 48e7a7ce-88d9-49d8-a49c-5314f95720b8 成功提交
+2025-05-24 14:49:23,838 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "48e7a7ce-88d9-49d8-a49c-5314f95720b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:49:23,840 - INFO - Task 48e7a7ce-88d9-49d8-a49c-5314f95720b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:49:31,875 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "48e7a7ce-88d9-49d8-a49c-5314f95720b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:49:31,876 - INFO - Task 48e7a7ce-88d9-49d8-a49c-5314f95720b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:49:39,885 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "48e7a7ce-88d9-49d8-a49c-5314f95720b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:49:39,886 - INFO - Task 48e7a7ce-88d9-49d8-a49c-5314f95720b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:49:47,900 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "48e7a7ce-88d9-49d8-a49c-5314f95720b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:49:47,901 - INFO - Task 48e7a7ce-88d9-49d8-a49c-5314f95720b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:49:55,944 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "48e7a7ce-88d9-49d8-a49c-5314f95720b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:49:55,944 - INFO - Task 48e7a7ce-88d9-49d8-a49c-5314f95720b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:50:03,960 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "48e7a7ce-88d9-49d8-a49c-5314f95720b8",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:50:03,962 - INFO - Task 48e7a7ce-88d9-49d8-a49c-5314f95720b8 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:50:11,971 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "48e7a7ce-88d9-49d8-a49c-5314f95720b8",
+        "msg": "任务完成",
+        "progress": 100,
+        "result": "/48e7a7ce-88d9-49d8-a49c-5314f95720b8-r.mp4",
+        "status": 2
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:50:11,974 - INFO - 任务 48e7a7ce-88d9-49d8-a49c-5314f95720b8 状态更新为 success
+2025-05-24 14:50:12,086 - INFO - 任务 48e7a7ce-88d9-49d8-a49c-5314f95720b8 的完成时间已更新
+2025-05-24 14:50:12,087 - INFO - 任务 48e7a7ce-88d9-49d8-a49c-5314f95720b8 已完成，稍后上传服务器 和回调
+2025-05-24 14:50:12,221 - INFO - 服务器视频上传成功=> /PEOPLE_AI/48e7a7ce-88d9-49d8-a49c-5314f95720b8/48e7a7ce-88d9-49d8-a49c-5314f95720b8-r.mp4
+2025-05-24 14:50:12,222 - INFO - 任务 hhhhada回调到http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video,任务编号48e7a7ce-88d9-49d8-a49c-5314f95720b8
+2025-05-24 14:50:12,231 - ERROR - 消息通知失败: URL=http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video, 错误=500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:50:12,232 - ERROR - 任务48e7a7ce-88d9-49d8-a49c-5314f95720b8回调失败,消息通知失败: 500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:50:12,238 - INFO - 清理文件: D:\heygem_data\face2face\temp\women_18.wav, D:\heygem_data\face2face\temp\nv.mp4
+2025-05-24 14:50:13,247 - INFO - 任务 eaf670ff-1941-49f2-8bb7-75c6419638ec 状态更新为 running
+2025-05-24 14:50:13,488 - INFO - 处理任务eaf670ff-1941-49f2-8bb7-75c6419638ec
+2025-05-24 14:50:22,208 - INFO - 复制文件到服务器路径: D:\heygem_data\face2face\temp\women_21.wav, D:\heygem_data\face2face\temp\nv.mp4
+2025-05-24 14:50:22,287 - INFO - 正在提交任务 eaf670ff-1941-49f2-8bb7-75c6419638ec到服务器
+2025-05-24 14:50:22,287 - INFO - 任务 eaf670ff-1941-49f2-8bb7-75c6419638ec 成功提交
+2025-05-24 14:50:25,308 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:50:25,309 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:50:33,343 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:50:33,344 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:50:41,371 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:50:41,372 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:50:49,388 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:50:49,389 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:50:57,414 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:50:57,415 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:51:05,437 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:51:05,438 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:51:13,458 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:51:13,459 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:51:21,462 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:51:21,464 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:51:29,490 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "音频特征提取完成",
+        "progress": 20,
+        "result": "",
+        "status": 1
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:51:29,491 - INFO - Task eaf670ff-1941-49f2-8bb7-75c6419638ec 未完成, msg: 音频特征提取完成, retrying...
+2025-05-24 14:51:37,521 - WARNING - 接口返回 /easy/query, Content-Type 非标准(text/html; charset=utf-8)，尝试手动解析 JSON，内容: {
+    "code": 10000,
+    "data": {
+        "code": "eaf670ff-1941-49f2-8bb7-75c6419638ec",
+        "msg": "任务完成",
+        "progress": 100,
+        "result": "/eaf670ff-1941-49f2-8bb7-75c6419638ec-r.mp4",
+        "status": 2
+    },
+    "msg": "",
+    "success": true
+}
+2025-05-24 14:51:37,524 - INFO - 任务 eaf670ff-1941-49f2-8bb7-75c6419638ec 状态更新为 success
+2025-05-24 14:51:37,683 - INFO - 任务 eaf670ff-1941-49f2-8bb7-75c6419638ec 的完成时间已更新
+2025-05-24 14:51:37,684 - INFO - 任务 eaf670ff-1941-49f2-8bb7-75c6419638ec 已完成，稍后上传服务器 和回调
+2025-05-24 14:51:37,967 - INFO - 服务器视频上传成功=> /PEOPLE_AI/eaf670ff-1941-49f2-8bb7-75c6419638ec/eaf670ff-1941-49f2-8bb7-75c6419638ec-r.mp4
+2025-05-24 14:51:37,967 - INFO - 任务 hhhhada回调到http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video,任务编号eaf670ff-1941-49f2-8bb7-75c6419638ec
+2025-05-24 14:51:37,976 - ERROR - 消息通知失败: URL=http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video, 错误=500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:51:37,976 - ERROR - 任务eaf670ff-1941-49f2-8bb7-75c6419638ec回调失败,消息通知失败: 500, message='Internal Server Error', url='http://192.168.0.51:10923/interface/report_ai_digital_human_lipsync_video'
+2025-05-24 14:51:37,983 - INFO - 清理文件: D:\heygem_data\face2face\temp\women_21.wav, D:\heygem_data\face2face\temp\nv.mp4

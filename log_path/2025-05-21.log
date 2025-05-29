@@ -1,0 +1,44 @@
+2025-05-21 16:52:06,629 - INFO - 数据库已初始化
+2025-05-21 16:57:25,547 - INFO - off
+2025-05-21 16:58:08,809 - INFO - 数据库已初始化
+2025-05-21 17:09:06,489 - INFO - off
+2025-05-21 17:10:43,789 - INFO - 数据库已初始化
+2025-05-21 17:10:57,725 - INFO - off
+2025-05-21 17:11:04,649 - INFO - 数据库已初始化
+2025-05-21 17:11:25,339 - INFO - off
+2025-05-21 17:22:34,619 - INFO - 数据库已初始化
+2025-05-21 17:22:43,016 - INFO - off
+2025-05-21 17:22:53,295 - INFO - 数据库已初始化
+2025-05-21 17:23:50,461 - INFO - off
+2025-05-21 17:29:20,287 - INFO - 数据库已初始化
+2025-05-21 17:29:37,393 - ERROR - 错误处理JSON上传d: 1 validation error for UploadRequestModel
+face_map
+  Field required [type=missing, input_value={'username': '李儿', 'u...7%E4%BB%B6/520/lao.mp4'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-05-21 17:30:02,623 - INFO - 任务 253c4520-e8af-41a2-96fe-8d86bee504d8 添加到数据库，task_id: 1
+2025-05-21 17:30:02,656 - INFO - 任务 253c4520-e8af-41a2-96fe-8d86bee504d8 状态更新为 running
+2025-05-21 17:30:02,702 - INFO - 处理任务253c4520-e8af-41a2-96fe-8d86bee504d8
+2025-05-21 17:30:06,418 - INFO - 复制文件到服务器路径: D:\heygem_data\face2face\temp\lao.wav, D:\heygem_data\face2face\temp\lao.mp4
+2025-05-21 17:30:08,469 - ERROR - 错误提交任务 253c4520-e8af-41a2-96fe-8d86bee504d8: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016D6800AC20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 17:30:08,470 - INFO - 任务 253c4520-e8af-41a2-96fe-8d86bee504d8 等待服务器
+2025-05-21 17:30:15,522 - ERROR - 错误提交任务 253c4520-e8af-41a2-96fe-8d86bee504d8: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016D6800A710>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 17:30:15,522 - INFO - 任务 253c4520-e8af-41a2-96fe-8d86bee504d8 等待服务器
+2025-05-21 17:30:19,874 - INFO - off
+2025-05-21 18:03:07,749 - INFO - 数据库已初始化
+2025-05-21 18:03:14,656 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 添加到数据库，task_id: 1
+2025-05-21 18:03:14,857 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 状态更新为 running
+2025-05-21 18:03:14,903 - INFO - 处理任务2b998606-c977-4d6a-a296-5a29518c4673
+2025-05-21 18:03:18,066 - INFO - 复制文件到服务器路径: D:\heygem_data\face2face\temp\lao.wav, D:\heygem_data\face2face\temp\lao.mp4
+2025-05-21 18:03:20,109 - ERROR - 错误提交任务 2b998606-c977-4d6a-a296-5a29518c4673: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223353CAB90>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 18:03:20,109 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 等待服务器
+2025-05-21 18:03:27,135 - ERROR - 错误提交任务 2b998606-c977-4d6a-a296-5a29518c4673: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223353CB640>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 18:03:27,135 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 等待服务器
+2025-05-21 18:03:34,164 - ERROR - 错误提交任务 2b998606-c977-4d6a-a296-5a29518c4673: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223353CBF40>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 18:03:34,164 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 等待服务器
+2025-05-21 18:03:41,202 - ERROR - 错误提交任务 2b998606-c977-4d6a-a296-5a29518c4673: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223353CB610>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 18:03:41,202 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 等待服务器
+2025-05-21 18:03:48,244 - ERROR - 错误提交任务 2b998606-c977-4d6a-a296-5a29518c4673: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223353CA980>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 18:03:48,244 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 等待服务器
+2025-05-21 18:03:55,303 - ERROR - 错误提交任务 2b998606-c977-4d6a-a296-5a29518c4673: HTTPConnectionPool(host='127.0.0.1', port=8383): Max retries exceeded with url: /easy/submit (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223354448B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2025-05-21 18:03:55,303 - INFO - 任务 2b998606-c977-4d6a-a296-5a29518c4673 等待服务器
+2025-05-21 18:03:55,414 - INFO - off
